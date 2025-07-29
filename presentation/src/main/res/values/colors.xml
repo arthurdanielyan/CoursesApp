@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+
+    <color name="ripple_color">#66FFFFFF</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8A8A8A</color>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_button_disabled">#666666</color>
+
+    <color name="secondary">#F2F2F3FF</color>
+
+    <color name="surface_dark">#32333A</color>
+    <color name="surface_light">#24252A</color>
+    <color name="surface_dark_transparent">#32333A4D</color>
+
+    <color name="background_vk">#4267B2</color>
+    <color name="background_ok">#FF7F00</color>
+
+    <color name="outline">#25282D</color>
+</resources>
